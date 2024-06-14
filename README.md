@@ -11,8 +11,7 @@ This project demonstrates a QR code-based access control system using OpenCV and
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd qr-code-access-control
+   https://github.com/sairam-penjarla/QR-Code.git
    ```
 
 2. **Install the required dependencies**
